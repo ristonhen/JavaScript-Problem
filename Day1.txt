@@ -1,1 +1,4 @@
+#Day 1
 
+Let create a JavaScript program to evaluate the pi value ! 
+For example : __3__ pi = 9.42477796077 !  
